@@ -41,7 +41,7 @@ For example, with a shift of 3:
 
 1. **Clone the repository:**
    bash
-   git clone https://github.com/your-username/caesar-cipher.git
+   git clone https://github.com/takshak8709/caesar-cipher.git
    cd caesar-cipher
    
 
